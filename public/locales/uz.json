@@ -1,0 +1,12 @@
+{
+    "olma" : "olma" ,
+    "anor" : "anor",
+    "savolber1" :{
+        "savol" :"Ismingiz nima ? ",
+         "javob"  :"Sunnatjon"
+    },
+    "savolber2" :{
+        "savol" :"Familyangiz  nima ? ",
+         "javob"  :"To'xtaqulov"
+    }
+}
